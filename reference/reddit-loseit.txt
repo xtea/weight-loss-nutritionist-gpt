@@ -1,0 +1,527 @@
+Getting Started
+Not sure where to start? Check out the Quick Start Guide!
+
+Posting Guidelines
+Before Posting, refer to the Posting Guidelines.
+
+The Science of Weight Loss
+USEFUL VIDEO (5 minutes): What is a calorie? by TedEd
+
+Simply put, we lose weight if we consume (energy IN) less than we use (energy OUT).
+
+Energy IN comes from the food and drink that we eat and is measured in calories (Cals, cals or kcals) or kilojoules (kJ).
+
+Energy OUT is then energy used ("burned") by our bodies, the vast majority of our energy OUT is spent maintaining the basic functions of the body, awake or asleep.
+
+__________________________________________________________________
+|                       Total Energy Out                         |
+|________________________________________________________________|
+|Exercise|  Movement   |             Basal metabolism            |
+|  ~10%  |    ~20%     |                  ~70%                   |
+|________|_____________|_________________________________________| 
+Exercise - concious activity, such as sports, hiking, running, etc.
+Movement - Daily movement for common activities, such as cooking, cleaning, going to work, NEAT
+Basal Metabolism - Energy required by your body with no movement, also known as BMR (Basal Metabolic Rate)
+Most of our energy OUT is used for maintaining a body temperature, our heartbeat, feeding the brain, and our liver function. We burn a minority of our energy OUT in other physical activities of work, home, school, or play. The energy OUT spent doing a particular activity varies by its intensity.
+
+For fat gain: Energy IN > Energy OUT
+Fat is stable: Energy IN = Energy OUT
+For fat loss: Energy IN < Energy OUT
+Assuming that our weight is not decreasing, our energy IN is not less than our energy OUT. To lose weight, this equation needs to be unbalanced, so energy IN is less than energy OUT (a deficit). Then, our body burns fat (the body's stored energy) to compensate for the deficit.
+
+Naturally, we can achieve this in two ways. We can consume less energy IN by eating fewer calories and we can use more energy OUT with adding activity. However, as a practical matter, it is achieving the eating control that is the key to weight control.
+
+It is a lot easier to deny ourselves a ~300 Calorie/kcal slice of cake than walking 3 miles to burn it off. People who are bedridden can lose weight without any exercise whatsoever. While exercise is very good for us for many reasons, it is a mere secondary helper to weight loss. For most people here in /r/loseit, their path toward getting lighter and healthy is roughly 80% dietary habit changes, 20% exercise habit changes.
+
+While improving our eating and exercise habits is excellent for our health,
+
+changing our eating habits is required for weight loss.
+changing our exercise habits is secondary for weight loss.
+Be Realistic
+Besides the very basics, you have to be realistic and accept that, if you want to lose weight, you're going to have to change a few things. Possibly the most important realization is that you need to make a lifestyle change. The majority of people need to change their diet as opposed to go on a diet; reverting to old habits will see you reverting to old body-weights, too.
+
+Important facts to bear in mind--
+
+Mirrors lie - Or rather, your brain lies. By seeing yourself in the mirror on a daily basis, it's very easy to get dissuaded by your apparent lack of progress. The problem is that we constantly adjust our self-image and aren't very good at remembering what we looked like a month ago. Don't work only on the reflection in the mirror because you'll likely get discouraged. (See Phantom Fat below.)
+
+Weight loss isn't the aim - What you're really trying to achieve is fat-loss, and you may see inches lost off your body without any drop in weight. Taking some other measurements and photos can be useful in seeing fat loss when the bathroom scale is not the bearer of good news. When you hit a plateau, you'll be glad that you took the trouble.
+
+Let's Lose Weight!
+Take Measurements
+The first thing you need to do is to work out your weight and, if you can, measure your body fat and various other parts of your body.
+
+Weight
+Get a bathroom scale and use it on a hard floor. For consistent results,
+
+Use the scale on a flat, hard surface -- not on a carpet or a rug
+Stand in a consistent, comfortable, balanced manner
+Weigh after waking, without any clothes, after using the toilet
+Note that the scale not only measures your fat, but also water, muscle, and bone. Water is, by far, the largest part of your body composition and it fluctuates. See Fluctuations or Sudden Gains.
+
+Tape Measurements
+The parts of the body frequently measured to track progress during weight-loss are as follows--
+
+Bust - Measure around the chest right at the nipple line, but don't pull the tape too tight. (For guys, this is the chest measurement.)
+Chest - Measure just under your bust. (For guys, ignore this.)
+Waist - Measure a half-inch above your belly button or at the smallest part of your waist.
+Hips - Place tape measure around the biggest part of your hips.
+Neck - Measure around your neck where a buttoned-up shirt would circle.
+Thighs - Measure around the biggest part of each thigh.
+Calves - Measure around the largest part of each calf.
+Upper arm - Measure around the largest part of each arm above the elbow.
+Forearm - Measure around the largest part of the arm below the elbow.
+Body Fat Percentage
+Body Fat Percentage (BF%) is also very common to track. BF% is the total mass of fat divided by total body mass; body fat includes essential body fat and storage body fat. The percentage of essential body fat for women is greater than that for men, due to the demands of childbearing and other hormonal functions. A number of methods are available for determining body fat percentage, such as measurement with calipers or through the use of bioelectrical impedance analysis. The accuracy of these methods and devices vary, but comparing previous measurements with later measurements is often useful and motivating.
+
+General Body Fat Percentage Categories
+
+Category	Women BF%	Men BF%
+Essential Fat	10-13 %	2-5 %
+Athletes	14-20 %	6-13 %
+Fitness	21-24 %	14-17 %
+Acceptable	25-31 %	18-24 %
+Obese	32% +	25% +
+Photos
+The idea of taking a photograph may horrify you, but it'll be worth it in the end to see how far you've come. It also gives you something to compare to when the mirror is lying. Take your photographs in similar lighting, poses, clothing, and composition so that they can be useful comparison tools. You can find some examples (good and bad) in /r/progresspics and feel free to post your own pics there after you've made some progress. They are truly inspirational!
+
+Set Some Goals
+What do you want to do, and when do you want to do it by? With dedication you can realistically lose around 2lbs/1kg a week with the right diet and exercise, equivalent to 7000kcals. Don't expect miracles. You'll find you lose more in the first few weeks as your body's water levels adjust. Further, if you've got 200lbs/100kg to lose, you'll probably see more rapid progress than someone who's only needing to drop 10lbs/5kg.
+
+As well as long term goals, set short term goals to help keep you motivated. These can be aims (I'm going to be under 200lbs by 1st December), or objectives (I'm not going to cheat for a whole week). Aims are the results you will see for sticking to your objectives.
+
+Make A Plan To Achieve Your Goals
+Once you've decided upon some long-term and short-term goals, you need to make a plan to achieve them. How you achieve the basic aim of eating fewer calories than you burn off will be heavily dependent on your lifestyle, preferences, and goals. The rest of this FAQ should give you a fair idea of the options available to you.
+
+The most important thing to remember about any plan is GIVE IT TIME. Patience with anything is important, and this is particularly the case with a change of lifestyle. Once a habit is formed, it's easier to stick to.
+
+Think Long Term
+While it can be tempting to make a lot of drastic changes all at once to get the weight loss results you want, it is a much better idea to make gradual, small changes to your lifestyle. Most fad diets fail because they introduce a lot of drastic life changes all at once: from no exercise to working out 6 days a week, or from eating whatever you want to cutting all fast food and sodas. Even if you are able to will your way through losing the weight, very few are able to sustain the weight loss.
+
+There are two main benefits to a slower approach to weight loss:
+
+It will be more sustainable. Making gradual changes to your eating habits will not be a big shock to your system, so you won't feel like you are depriving yourself. It will be much easier to stick to your plan, because you aren't trying to change very much. You won't be reliant on motivation, which comes and goes, to keep you going.
+It will build habits. Habits are the key to sustaining your weight loss once you reach your goals. Going at a slow pace will give you more time to develop habits, such as portion control, eating more slowly, or having healthier snacks.
+Going at a slower pace can be difficult because it requires patience. It is especially important to have goals that are not dependent on results, such as logging daily, hitting a step goal, or replacing a bad eating habit with a better one.
+
+Diet
+Diet, as we said above, is the most important part of losing weight for the vast majority of people. There are two basic approaches that one can take when starting out: either to ease into it by, for instance, cutting out soda, or to change completely overnight. There have been no rigorous scientific studies to suggest that one is more effective than the other, so go with what works for you. Essentially, you need to choose one of the plans below and decide how long you're going to take to move over to it completely (if you choose keto, it's all-or-nothing, so ignore that advice!).
+
+There are several billion diets available for people to choose, so we're going to cover the most popular here on r/loseit. If your diet of choice isn't listed, that doesn't mean it won't necessarily work, just that we haven't seen lots of people on this subreddit on it.
+
+Examine.com has an expansive FAQ section that covers a swath of topics centered around nutrition.
+
+Counting Calories
+Calorie counting is undoubtedly the most popular method of weight-loss on r/loseit. This is because many other diets include calorie counting, so it's a term that's not specific in itself. The basic idea is that you work out how much energy you burn on a daily basis and then eat less than that; what your body doesn't get from food it will take from your fat reserves. Many people on r/loseit use the free services loseit.com and myfitnesspal to track calorie intake and progress; otherwise WolframAlpha allows you to add foods together to get nutrition information easily.
+
+Not everyone tracks calories religiously, but if things aren't going well for you it's probably a good idea to try.
+
+When calorie counting, the source of the calories do not matter for achieving weight loss; however, the content of those calories is important for health. Within those limited calories are essential nutrients: the vitamins, minerals, fatty acids, and certain proteins that a body only gets from food. Therefore, it is wise to spend calories on foods that are high in nutritional value.
+
+Calculating Your Caloric Needs
+(To make this easy, just google "TDEE Calculator" to get your calorie target. if you want the long version, keep reading.)
+
+To calculate how much energy your body needs on a daily basis, you must first calculate your Basal Metabolic Rate (BMR). This will tell you approximately how many calories your body burns at rest; the moment you get out of bed you're burning calories at a higher rate than your BMR.
+
+BMR Calculator
+Again, your BMR is the approximate calories you would expend if you were in a coma. Generally speaking, 80% of the population could expect the calculator to give a BMR that is within the 20% range (+/- 10%). This is NOT your maintenance calorie level, which you can calculate using the equations below.
+
+Once you've calculated your BMR you need to multiply it by an appropriate factor for your Physical Activity Level (PAL). This coverts your BMR to an estimated number of calories you burn in a day. The numbers for different exercise levels are as follows--
+
+Little or no physical activity - Calorie-calculation = BMR x 1.25
+
+Light work activity and/or exercise/sports 1-3 days/week - Calorie-Calculation = BMR x 1.4
+
+Moderate work activity and/or exercise/sports 3-5 days/week - Calorie-Calculation = BMR x 1.6
+
+Hard work activity and/or exercise/sports 6-7 days a week - Calorie-Calculation = BMR x 1.8
+
+Very hard exercise/sports &amp;amp; physical job or 2x training - Calorie-Calculation = BMR x 1.9
+
+Tip: Start with a conservative (lower) estimate of your activity and if you find that you are terribly hungry or lose weight too quickly, you can increase it.
+
+Calculating the Calories in foods
+Here are some useful sources for intake -- foods, drinks, condiments, and cooking oils
+
+the USDA National Nutrient Database for Standard Reference http://ndb.nal.usda.gov/ - The US Department of Agriculture's authoritative database
+MyFitnessPal http://www.myfitnesspal.com/food/calorie-chart-nutrition-facts
+Alcohol contains calories, quite a few of them in fact. Get Drunk Not Fat lists drinks that will allow you to enjoy a healthy glow without piling on the pounds. For an in-depth discussion of alcohol and fat-loss, Martin Berkhan has a very interesting article.
+Calculating the equivalent Calories in exercise and workload
+Calorie burn as calculated by exercise machines is notoriously wide of the mark and tends to be an overestimate. Be very cautious of taking the numbers at face value when calculating how much you're then allowed to eat-- multiplying by 3/4 or even 2/3 is more likely to keep you within your daily goals. Further, don't account for exercise calories twice by using a high multiplier of your BMR and then adding on that given by exercise machines.
+
+CalorieLab's one-click calculator for calorie expenditure data http://calorielab.com/burned/ - calculates using METs data from the Compendium of Physical Activities.
+Low-Carb
+Low-carb diets are relatively popular here, and there are many variations on the basic premise. Many people find low carb diets to be more filling, particularly when they choose higher protein foods in place of highly refined carbohydrates like flour, juice, and sugars. Some people also find that they can lose weight simply by limiting grams of "net" carbohydrate (total carbohydrates minus grams of fiber).
+
+The staples of a low-carb diet are meat, fish, eggs, nuts, fruit, and vegetables. Fruit contains fructose, a simple sugar, and so if you really go to town eating fruit you could pile on weight. Vegetables, however, are amazing - they are so calorie sparse that a pound (450g) of green beans contains less than 150kcals. What Does 200 Calories Look Like shows what, yes, 200 calories of various foods look like.
+
+Meat, fish, eggs and nuts are more calorie dense than fruit and veg, but keep you fuller for longer. If you gorge yourself silly on them, you will still put on weight, but with a smattering of self-control you'll soon get used to eating far fewer calories than before without feeling like you're depriving yourself.
+
+Low Carb Recipes
+
+/r/fitmeals is a subreddit "designed to share recipes for meals that are healthy, cheap, and delicious." Not exclusively low-carb, but there are a number of low-carb recipes to be found there.
+
+/r/4hourbodyslowcarb is a subreddit dedicated to Tim Ferriss's slow-carb diet. Lots of the recipes there are low-carb.
+
+4-Hour Body
+Tim Ferriss's slow-carb diet is based on a section of his book The 4-Hour Body. In the book Ferriss makes some rather outrageous claims relating to other areas of one's life, but the slow-carb diet is popular and effective with four straightforward rules to follow:
+
+Rule 1: Avoid "white" carbohydrates
+
+Rule 2: Eat the same few meals over and over again
+
+Rule 3: Don't drink calories
+
+Rule 4: Take one day off per week
+
+/r/4hourbodyslowcarb is a subreddit dedicated to the slow-carb diet. Lots of the recipes there are low-carb and applicable to other low-carb diets.
+
+Paleolithic Diets
+Paleolithic diets, or paleo diets, are diets which aim to mimic those of our early ancestors. They are another form of low-carb diet, as paleolithic man never sunk his teeth into bread or potatoes. It also has its own subreddit.
+
+The Primal Blueprint diet, created by Mark Sisson, is similar to paleo but takes a different view on saturated fats.
+
+A good intro: http://www.reddit.com/r/loseit/comments/nyog6/paleo_diet/
+
+Ketogenic Diets
+Ketogenic diets are the plus ultra of low-carb diets, in which one eats almost no carbohydrates at all. Popularized by Dr. Atkins's eponymous diet, keto is very popular on reddit and has its own subreddit. Keto diets work by putting the body into ketosis, where its energy comes entirely from fat stores instead of the mixture of fat and glucose which it normally does.
+
+Most people who start on keto do so without counting calories, especially when they have a lot of weight to lose. This approach does not work for everyone, however, and some people (especially those with relatively low body-fat) will still need to count calories on a ketogenic diet.
+
+If you're interested in trying keto, the r/keto FAQ is a good place to start. Besides Atkins, the Dukan Diet works on the same principles.
+
+Vegan Low-Carb
+If you're vegan you can still pull off a low-carb diet. Gemma pea, rice and hemp are three protein powders that can help supplement a vegan low-carb diet, but avoid soy. fatmalcontent gave this great advice to someone wanting to try Atkins on a vegan diet, and that advice is relevant to any low-carb vegan dieting.
+
+Low-Carb Comparison Table
+As you can see, low-carb diets are many and varied, and very popular with r/loseit members. If you're feeling a little confused, the following table gives you a very rough idea of the differences between the various low-carb diets.
+
+Diet	General Low-carb	4-Hour Body	Paleo/Primal	Keto (Atkins/Dukan)
+Lots of	Vegetables, Fruit	Vegetables	Vegetables, Fruit	Vegetables, Meat, Fish, Eggs, Nuts
+Medium	Meat, Fish, Eggs, Nuts	Meat, Fish, Eggs, Nuts, Legumes	Meat, Fish, Eggs, Nuts	
+Little of	Bread, Pasta, Rice, Sugar		Sugar	Fruit
+None of	Nothing	White Carbs	Bread, Pasta, Rice, Legumes	Bread, Pasta, Rice, Sugar
+Brief Explanation of the Theory of Low-Carb Diets - Low carbohydrate diets work by normalizing as much as possible your body's blood-sugar levels. Sugar in the form of glucose is the source of energy for your body's cells and is transported to those cells in your blood stream. Your body tries to maintain relatively constant blood-sugar levels, which it achieves using hormones. The catabolic hormones such as glucagon, cortisol and catecholamines raise blood-sugar levels in the event that the levels are too low, while the one anabolic hormone insulin is used when levels are too high. When you eat food high in carbohydrates, your body absorbs the sugar through the gut and blood-sugar levels rise as a result, prompting your pancreas to produce insulin to stop the levels getting too high. There is a lag, however, in the time between your blood-sugar being the at the right level and your blood-stream being free of insulin. This results in a crash, where you may feel shaky and, crucially, hungry. Low-carb diets aim to stop this vicious cycle by reducing the boost that your blood-sugar levels get when you eat, and hence the production of insulin and the resultant hunger. For more information, take a look at this review paper.
+
+Other Diets
+Here are a number of diets that are not specifically low-carb, though most can be implemented as a low-carb diet.
+
+Weight Watchers
+Weight Watchers is a company and diet of the same name. Its aim is to help participants lose weight by forming helpful habits, eating smarter, getting more exercise and providing support. Weight Watchers uses a subscription based business model, so you pay to use their website and/or attend meetings where group members support each other in the quest to lose weight.
+
+Weight Watchers uses a daily/weekly budget and assigns a counting value to food and exercise using a system that is proportionate to the counting of calories with a bias toward more nutritional choices.
+
+Intermittent Fasting
+Intermittent fasting is the name for a variety of diets that alternate fast and feed periods. The three most common forms are:
+
+Daily fast and feed windows (e.g. 16/8): In this variant dieters only consume food during feed windows, which are usually 8-10 hours per day, though some choose feed windows that are as little as 2-4 hours a day.
+5:2 (e.g. the 5:2 diet): requires that followers fast two days a week and can feed the other five. On fasting days followers may consume up to 500 calories a day for women and 600 for men.
+The Every Other Day Diet: requires that followers fast (500 calories for women and 600 for men) every other day.
+Some people find intermittent fasting easier to follow. You should consult your doctor before committing to intermittent fasting if you have blood sugar issues, are a pregnant or breast-feeding woman, or are an adolescent. People with families may also find it difficult to not eat while their family eats, and some people may deal with social pressure from people who do not understand Intermittent Fasting. Subreddits specifically for Intermittent Fasting are r/leangains, r/fivetwo, and r/intermittentfasting/.
+
+Juice/Fasts/Detox Diets
+Don't be fooled into thinking that a grapefruit/lime/strawberry/kiwi fruit juice diet is anything but an awful idea. You'll doubtless lose weight, but once it's done that'll come piling back on again. The trick is that increasing fluid intake flushes out electrolytes (calcium, magnesium, potassium and sodium) that the body uses in the absorption of fluid, counter-intuitively decreasing water weight. Sure, you'll lose some fat too, but once people allow themselves back on food they tend to gorge that back rapidly.
+
+A good video that explains it: 3 Misconceptions About Juice Cleanses https://www.youtube.com/watch?v=bvgyyNRmzLQ.
+
+The Cabbage-Soup Diet is similar in theory and equally foolish.
+
+Resist the temptation to 'kick-start' your diet. Instead, focus on creating a simple plan that you'll stick to, and start executing that plan right away. Don't worry if it's not perfect, you can change it as you learn.
+
+Recipes
+MyFitnessPal Blog recipes - https://blog.myfitnesspal.com/category/eat/recipes/
+BBC Good Food - http://www.bbcgoodfood.com/recipes/category/healthy
+Fitmeals subreddit - /r/fitmeals
+1200isplenty subreddit - /r/1200isplenty
+Skinnytaste - http://www.skinnytaste.com/
+Skinny Kitchen - http://www.skinnykitchen.com/
+LaaLoosh - http://www.laaloosh.com/
+Minimalist Baker - http://minimalistbaker.com/
+Hungry Girl - http://www.hungry-girl.com/
+Meal Plans
+Sometimes you just want someone else to inspire you -- for that, a meal plan is helpful. For no-hype noncommercial meal plans, try these Google searches:
+
+https://www.google.com/search?q=1600+meal+plan+site%3A.edu
+https://www.google.com/search?q=1600+meal+plan+site%3A.gov
+And if 1600 isn't near your Calorie goal, try any number divisible by 200 (they're usually done in increments of 200).
+
+Questions And Misconceptions About Weight Loss
+There are a number of misconceptions that people who want to start living a healthier life may have picked up from any number of places. There are also common problems that many people face.
+
+1200 Female or 1500 Male Calorie Minimums for Adults
+These general minimums are recommended for most people who are losing weight without the guidance and monitoring of a physician or registered dietitian. They are the current minimums of MyFitnessPal which sources them to the National Institutes of Health. These minimums are too low for adolescents.
+
+Losing Weight Too Rapidly
+Weight loss puts increased demands upon the body. Gallstones, malnutrition, dehydration, and electrolyte imbalances can happen when those demands exceed the body's capability to cope with them. More minor side-effects include hair and nail problems, irregular female menstrual cycles, constipation, dizziness, fatigue, and headaches.
+
+Hunger
+If you're actually hungry -- not merely bored and cranky but actually hungry -- eat. You can eat something that you might have planned for later in the day. You can even eat something that bumps you up over today's goal. Choose something that is consistent with your weight-loss efforts, but don't let the calorie goal let you remain hungry. Our biggest job isn't in hitting that calorie goal, it is in staying in the effort, not becoming depressed, unhappy, hating this, and giving up.
+
+Binge Eating
+Binge eating is eating a large quantity of food in a way that is inconsistent with your weight-management plan and goals. It's not unusual and, normally, it is not serious. (If it becomes severe enough to interfere with normal life it becomes a disorder and requires professional treatment.)
+
+/u/shinbatsu posted a comprehensive Binge Eating FAQ/Advice post at https://www.reddit.com/r/loseit/comments/46il3b/binge_eating_faqadvice/ which is a recommended read.
+
+Here are some of /r/loseit's favorite tactics:
+
+KEEP GOING: Don't stop logging. Keep logging through a binge and continue logging after one. Continue the rest of the day and week on plan. A bad moment need not end your control for the entire day or weekend. Stay in the effort. Your good work is not ruined.
+
+PLAN SOMETHING ELSE: If your problem is consistently in the evening, schedule some regular evening activities: sing in a choir, play cards with friends, join a bowling league, take an art class, et cetera.
+
+DO SOMETHING ELSE: Distract yourself with something that takes you away from food (going for a walk around the block) or something that you can immerse yourself quickly into that also requires your hands to be busy (video game, a book, knitting, etc). Try to distract yourself with something that involves your other senses - loud music, hot shower or bath, aromatherapy, or pretty flowers.
+
+THROTTLE/CIRCUIT BREAKER: During the binge, have "a serving" .... Turn the TV off, don't use your electronic devices or multitask, really focus only on the food and its taste and texture and how much you enjoy it. Eat small bites and make it last 15-20 minutes. When that serving is over, start a 20 minute timer. Log your food. If the urge passes before the timer expires, stop - you're done. Otherwise, repeat the process ... same thoughtfulness and mindfulness to the experience. This solves two or three different issues -- it satisfies the urge which might be coming because you actually need something. It puts you first in charge of the process, not something that automatically happens when you're distracted by TV, devices, or tasks. And it makes the binge slower, lower calorie (you don't eat as much before you stop), and if your binge lasts two hours, you've only had 4 servings so so.
+
+GIVE YOURSELF PERMISSION TO STOP: No matter how far you are through a binge, you can always stop. Not "I've had 6 slices of pizza, I may as well eat the last 2", or "I've eaten the whole tub of ice-cream, and I've blown it for the day, what harm is it if I have a bag of crisps as well." You don't have to, and it is okay to dump the rest in the rubbish bin if you feel you'll relapse in a few hours and go for it again.
+
+PLAY THE TAPE FORWARD: Imagine what would happen if you went through with the binge. But don't just stop at the binge, play the scene forward to your later consequential feelings of sickness, regret, and/or fatigue. For example, before you eat a whole pizza, you "play the tape forward." Consider the impacts to meeting your goals and how you will subsequently feel emotionally and physically in hopes of changing the unwanted behavior. (Expanded in this post: https://www.reddit.com/r/loseit/comments/46392d/playing_the_tape_forward_and_binge_eatingit/)
+
+NARRATE THE BINGE: Talk through what you're doing. Not in a bad way, not beating yourself up. Just consciously, like you're telling the news. "I had a bad day. I'm going to binge on pizza in order to make myself feel better." "I have eaten three slices of pizza. I'm going to eat more pizza because I'm trying to make myself feel better." Honestly, for me, just having that first thought stops the binge. I'm going to eat because ______. If the answer is anything other than "because I'm hungry" than it's important to stop and really think about it. Because I'm sad, because I'm angry, because I'm happy. Those aren't things that get solved with food.
+
+LOG BEFORE YOU EAT: "For binges/treats, I still log before, planning my evil ways. Sure that pizza is going to put me over the limit today, so I need to really enjoy this 1300 calories worth of happiness. Oftentimes this allows me to stop when I'm full because I realize that I'm not enjoying this 300 calories a slice anymore. I'm more stressed about the extra calories than enjoying the damn pizza."
+
+LOG/JOURNAL/NOTATE WHY YOU BINGED: Boredom, sadness, cravings whatever.. "It makes it easier to identify those situations in the future and to distract myself."
+
+KEEP YOUR STOCK LOW: "I don't keep enough food in the house TO binge on! So basically every 4 days I go to the super market and buy about 4 days worth of food. Another nice perk is nothing is wasted or goes bad this way."
+
+Preserving Lean Body Mass or Muscle
+When you take in fewer calories than your body requires, it makes up the difference from internal sources of fuel: your body's fat and its lean body mass (LBM, e.g. muscle). When someone on a diet drops 10 lbs (almost 5 kg) from the scale, most of that weight loss is fat, but somewhere between 20 to 33% of that loss is from muscle.
+
+Unlike fat tissue, muscle burns calories. Muscle is important, even to the sedentary weight-loser. Having less muscle results in a lower metabolic rate, so you burn fewer calories throughout the day. Losing muscle may also discourage physical activity and result in a lowered capacity to perform physical work.
+
+To preserve lean body mass, including muscle, there are two tactics that are proven to help:
+
+Add more protein to your diet: Most of us eat 10-35% of our calories from protein. The higher we are in that range, the more lean body mass we will preserve. Try to keep your protein on the higher side of that range.
+
+High intensity, resistance, or weight-lifting exercises: Exercise that challenges the ability of the strength of our muscles tend to build them. They also tend to preserve lean mass during a dietary deficit.
+
+Both tactics together are the best strategy, but be advised: your body will only keep the muscularity that it regularly uses. Make these changes to your regular diet and exercise with a thought toward the long-term future. Temporary measures typically have temporary results. If you can't workout 5-6 days a week long term, don't rely on working out that often now. A sustainable habit of 3-4 times a week is sufficient to get these benefits.
+
+Adolescence
+People who are still developing into their adult bodies have increased calorie and nutritional needs. It's a sign of growth to be making some of your own food choices, and it is a sign of good maturity when you use this freedom to make generally healthy and thoughtful choices. Your body is still growing and your food and exercise plans should support a developing body. Teens are usually students, your brain being your main tool, and brains need a good supply of calories every day.
+
+Unfortunately, it is not a good plan to lose all your extra weight fast. Doing so could mean damaging your future height, mental health, or other physical or psychological development. But that is the end of the bad news. The good news is that it is possible to manage your weight through eating right -- low enough calories for reasonable weight control and high enough calories to develop further. Making the choice to use moderation in managing your weight is one of those signs of good maturity.
+
+For example, if you're a little overweight and still growing taller, it may be reasonable for a teen to make a plan to try to maintain their current weight as they grow taller. As you grow taller, keeping your weight the same, you will become leaner.
+
+If you're very overweight, it may be reasonable for you to lose 5lbs/2kg per month using a diet that is only moderately cutting back. This is only half as fast as a fully-developed adult can lose, but it allows you to have enough calories for your brain to perform your school tasks well and for your body to continue developing without problems.
+
+Start by weighing your body each day. Notice that your weight moves up and down normally due to differences in our body's hydration, waste, and other factors. What we're looking for are the broad trends over weeks, not the daily moves. Make a plan that is appropriate to your situation -- you can even post it on /r/loseit for further advice and input.
+
+Getting a doctor's okay on your plan is always the best way to go, but if that is not available to you, follow the advice in this FAQ but plan to lose more slowly than an adult. Calculate your TDEE including your daily physical activity and subtract 500 calories to lose about 5lbs/2kg per month. If you only have a few pounds to lose, consider not losing weight but just maintaining and letting your growing height "catch up" to your weight.
+
+Teens should never eat less than 1600 calories per day unless directed by their physician. The source of these calories should come from all different kinds of foods -- teens should not use restrictive dieting that limit their food sources. The only foods that teens might consider curtailing is the obvious junk food.
+
+Phantom Fat
+When you know you have lost a great deal of weight, but still can't see it in the mirror, that is called Phantom Fat. A lot of people who have lost substantial weight still see themselves closer to their starting weight than they do their actual weight. Our self-image is skewed!
+
+Search Google for "Phantom Fat" -- https://www.google.com/search?btnG=1&amp;pws=0&amp;q=phantom+fat&amp;gws_rd=
+
+Your mirror may lie but your data does not. Use the data, your measurements, your side-by-side before-after pictures, and the input from your objective friends when the mirror won't let you to see your physical changes.
+
+BMI
+BMI, or Body Mass Index, is an approximate measure of body fat levels invented in the 1830s for population studies. It should only be considered a very rough guide and is by no means an indication of health on the individual level. If someone has a BMI of 30 or more they are considered obese, and for most people in that position they should likely think about losing a large amount of weight; however, those with a lot of muscle mass can be healthy even with a BMI of 30.
+
+The best thing to say about BMI is that you should be aware of it and be cautious of putting too much stock in what it says. With those caveats, here is a BMI calculator you can use. This reverse BMI calculator will tell you the weight you'll need to be to hit a certain BMI, but don't obsess about it and certainly don't set it as a goal.
+
+Cheat Days
+A cheat day is a day when you free yourself from the bother of counting calories or sticking to your assigned foods. Many people on r/loseit use cheat days to break up the monotony of eating similar meals (which make counting easier). However a cheat day should not be seen as an opportunity to eat as much as possible. People are surprised by how little they manage to gorge on their cheat days.
+
+More than one cheat day a week is not a great idea. If you're cheating once a week and not making any progress, try having two or three weeks without cheating and see if your weight-loss kicks back into gear.
+
+Exercising for weight loss
+It's intuitively accepted that exercise must be a part of anybody's weight loss plan. It is not only incorrect, it can interfere with weight loss. Exercise is, at best and when well managed, a secondary helper to weight loss.
+
+Managing our food is first and foremost the most important part of weight-loss. Exercise is not equal to diet in that we can control much of our Energy IN but only add about 10%-20% to our Energy OUT through exercise. Studies repeatedly show that exercise has little effect on weight, but diet does.
+
+Exercise does have a rightful role in physical ability and capacity, psychological benefits, and general health and deserves its high place in anyone's health plan. However, if the goal is weight loss, the focus should be on the diet.
+
+Stretch Marks
+Many people who have a lot of weight ask the question "Will stretch marks make me look disgusting to my gender(s) of choice?"
+
+No. This is how men feel about stretch marks. Seriously. (NSFW language.) It's probably pretty safe to say that women feel the same way. Either way, stretch marks fade with time.
+
+Women and Weight Training
+Many women avoid weight training for fear of gaining more muscle than they want and becoming "huge". Unless you ingest massive amounts of protein and inject huge quantities of illegal steroids, you're not going to become "huge". If you're not doing both of these, then you're just going to keep losing fat and looking better. Even men will have difficulty putting on more than a few pounds or a kilo of muscle a month, and that requires some serious eating. You really have nothing to worry about.
+
+Avoiding weights because you don't want to become "huge" is like avoiding going for a jog in the park because you're afraid of winning the Boston Marathon.
+
+Relapse and Regaining
+Over the course of a person's life, you may gain and lose weight several times. Regaining weight is such a common problem of weight loss, it is practically cliche. Whether this effort is your first or your fifteenth, it's important to realize that relapse is part of nearly every health-related effort.
+
+"It’s a consistent finding that the weight lost by obese patients as a result of the most widely available treatments is almost always regained over time," says a study from Oxford University on weight maintenance and relapse published in The International Journal of Obesity. "Usually about half the weight lost is regained in the first year with weight regain continuing thereafter, so that by 3-5 years post-treatment about 80% of patients have returned to, or even exceeded, their pre-treatment weight."
+
+To prevent relapse, strive to
+
+choose a sustainable weight-loss method -- one that will last beyond the weight loss into your weight-maintenance life
+take the long view -- avoid setting a deadline or a timeline as healthy is forever
+plan for maintenance -- your new smaller body requires less energy intake (Calories) then your heavier body did
+have flexibility -- avoid rigid words like always and never in your plans, think less and more instead
+be satisfied with improving yourself -- your body is a physical shell and is the product of work but also your past and your genetics. It is not the whole of you and you should strive for improvement, but not expect perfection
+address the mind -- we are emotional beings, but calm and rationality can rule the day. We can control our emotions instead of letting our emotions control us.
+expect relapse and plan for it -- if we find our weight increasing, we will adjust and refocus. Relapse is commonly a part of recovery, it is fixable and worthy of our work. Usually, it's not if it will happen, it's when.
+Psychiatric Medications
+Many drugs commonly taken for psychiatric conditions such as depression, anxiety, or bipolar disorder have potential weight gain as a side effect. Common examples of these drugs are SSRIs (e.g. Prozac), benzodiazepines (e.g. Xanax), or mood stabilizers (e.g. Depakote). We see many questions about how to lose weight while taking these drugs. If you are taking psychiatric medications, the fundamental method for losing weight is the same: you must use more calories than you take in.
+
+Psychiatric medications may interfere with weight loss in a variety of ways. Some may affect metabolism, while others may cause intense hunger, and still others may cause extreme tiredness or lethargy. These side effects may make it more difficult to lose weight by decreasing your body's ability to use calories as it normally would or by decreasing motivation or physical ability to exercise.
+
+If you are taking psychiatric medications and would like to lose weight or are in the process of doing so, please inform the members of your care team. The dosage of psychiatric medication is often determined using the patient's weight, and your doctor may need to monitor the dose you take as well as the level of the medication in your bloodstream to prevent adverse effects. Under no circumstances should you change your own dose or abruptly discontinue taking any medication without the advice of a qualified medical professional. Remember that you are always within your rights as a patient to discuss your medications with your doctor and ask for a change if you feel it is necessary.
+
+Plateaus
+Any weight-loss will not be consistent, there are simply too many variables involved in the process. When people say they're losing 1lb/500g or 2lbs/1kg a week, this is an average; it does not mean that they're losing 1/7lbs a day seven days in a row, or even 1lb/500g a week, week in and out. Water weight, which is dependent on sodium levels and the number of starchy carbs you're eating, can easily fluctuate by 3lbs/1.5kg on a daily basis, and is often the principle component in daily weight changes. The amount of fat you can lose in a day is nothing compared to the amount your water weight can change, so being heavier in the morning does not mean you failed the previous day. Tracking your daily weight can also help see your overall weight trend when you're feeling discouraged. In this post by nschimmo, he explains why he weighs daily to see a trend and helps when feeling discouraged.
+
+Seeing no weight change in two weeks is not unusual; often people will see no change for a week or more and then experience a big drop, sometimes called a whoosh. The key is not to get discouraged. If you're counting calories and the plan was previously working, you just have to be patient. This is another reason why tracking things other than weight is a good idea, because the scale not changing doesn't imply your shape is not. Here's a great post by quill18 who dropped only 5lbs/2.5kg in three months, yet went from a medium to a small T-shirt and wearing 36" to 34" pants.
+
+If you're seeing no progress in either your weight or anything else over the course of several months, it might be time to re-evaluate the plan you've made. People who have dropped large amounts of weight, or large fractions of their total weight, will see their daily caloric requirements reduced. They will need to recalculate their requirements and adjust their eating accordingly. If you are not making progress and haven't tried counting how many calories you're eating, do so; only then will you get an accurate picture of where you are.
+
+Fluctuations or Sudden Gains
+The weight-loser's fat usually starts out at a higher portion of their body (32%+ for women and 25%+ for men) and does not fluctuate much at all. Water is about 50-65% of the body and fluctuates often. At the end of their effort, fat will be a smaller percentage of the body composition (21-24% for women and 14-17% for men) and water will still be a fluctuating 50-65%.
+
+Water is a component of our fat, muscles, blood, and other tissues and substances and cells in the body. Water is used to hydrate, sweat, protect and repair tissues, digest, flush, cry, lubricate, and for a number of other purposes. We lose water via breathing, sweating, and digestion, and we get it from both drinking and eating. The amount of water we retain depends a lot upon what's happening with the body at any one time and to balance some of our electrolytes like sodium and potassium.
+
+Most of any change we see day to day, up or down, is water. Our fat loss at top recommended speed of 2lb/1kg per week is 4½oz/125g -- about the weight of a stick of butter.
+
+Because water responds to sodium, carbs, waste, skin hydration -- and because we have so much water -- it goes up and down faster than our fat amount comes down. It's water that makes the scale jump around. Look at the trends and don't worry about the fluctuations.
+
+If you can't smooth out the trends in your head, there is a website called WeightGrapher at http://www.weightgrapher.com/, an iPhone app called Happy Scale, and an Android app called Libra that can help you to see your trends and averages very easily without being thrown off by the odd fluctuations. Weight smoothing is also a feature of using the FitLegit app at http://www.fitlegitapp.com/.
+
+A Happy Scale Review by user nschimmo
+
+Fluctuations for Women
+It's very normal for you to retain water and have large fluctuations when it's that time of the month. This is perfectly normal and will resolve after your cycle!
+
+Weightlifting Plateaus
+Starting or increasing a weight-lifting routine can cause your weight to plateau or increase. Don't worry, it's okay, you are probably still losing fat at a good rate! Inflammation caused by weightlifting temporarily slows your weight loss but not your fat loss.
+
+When we start or intensify lifting, we're creating micro-sized tears in our muscles. Muscles swell (water) and become inflamed (water) during a muscle-repair process that takes several days. This additional water added offsets our fat loss. BF% still going down but Water% going up can cause the weight-losers total scale weight to slow, stall, or even temporarily go higher.
+
+Keep lifting. The water weight from lifting can take 3-5 weeks to calm down. After that, the added water weight still happens at smaller amounts because the lifter's muscles become accustomed to the workloads and the amount of inflammation is reduced. By then the weight-losers fat loss has outpaced the water weight remaining and the scale graph is back to its normal downward slope.
+
+Social Pressure
+We sometimes fear, or actually face, pressure from our social circles when we are trying to improve our diet or exercise. It can be a conflict because food is social and being social is a natural human priority. It can be a challenge to find the right balance between giving due priority to our friends and family and priority to our diet and exercise. Neither extreme is desirable: you don't want to entirely forsake your healthy effort nor do you want to give up your friendships.
+
+Stay calm, explain to your friends that if you share a meal or go out for an evening that you're going to be paying some attention to your healthy effort. If you start receiving pressure to do something you don't want to do, assert yourself politely but firmly. Being healthy is your decision and your right, and your friends should respect it.
+
+Keep the focus of such conversations on you and your effort, don't make it bigger than it is. Your peers may secretly fear that your being healthy is a comment on their eating, drinking, or other choices. Beginning to touch upon those fears may cause you some unwanted blowback. Just as you have the right to care for yourself without pressure, they have a similar right to their own decisions.
+
+Starvation Mode
+Your metabolic rate can slow down during weight loss, but it will never slow to the point where it causes you to maintain or gain fat; in this sense, "starvation mode" is a myth.
+
+People concerned with starvation mode are concerned that by lowering their calorie intake drastically their body will retain fat to compensate. This idea was popularised due to the Minnesota Starvation Experiment in which subjects were given 50% of their daily calorie intake for months. The result being that they lost fat until they had nearly zero fat left to lose and their bodies simply could not get the calories anywhere else. Concisely put: starvation mode happens when your fat is nearly entirely gone and your lean tissues are, quite literally, wasting away.
+
+When you have a simple caloric deficit, your body will almost entirely make up for it with fat stores. There is a small metabolic adaptation that happens due to the lowering weight of your body and changes in leptin, thyroid, insulin and nervous system output. That metabolic rate tends to reduce more with more excessive caloric deficits (and this is true whether the effect is from eating less or exercising more) and people vary in how hard or fast their metabolism slows down. Women's bodies tend to slow slightly more. However, never is the slowing of the metabolic rate sufficient to completely offset the caloric deficit that initiates it. Further and further deepening of the calorie deficit simply yields only smaller incremental returns, but never stops or even slows fat loss.
+
+Diet Soda and Artificial Sweeteners?
+Some people worry about diet soda and artificial sweeteners leading to insulin spikes, weight gain, and other health issues. This is another common diet myth. There's no conclusive evidence that diet soda or artificial sweeteners cause insulin spikes, weight gain, or other health issues. Check out more information on diet soda.
+
+For many people, artificial sweeteners are a useful tool, because they'll satisfy a sweet tooth without adding calories or carbs. If that's not the case for you, you can certainly avoid them.
+
+Toning Up
+Related to spot fat reduction, toning up is a largely meaningless term. It simply means having a more defined body, essentially lowering your body fat percentage. If you manage to add 20lbs/10kg of muscle without adding fat, your percentage body fat will be lower and you will look leaner, but for the majority of people losing body fat will be easier through diet and exercise.
+
+What Will Happen to my Boobs?
+Girls - Your breast tissue is comprised of milk ducts, lymph nodes, and fat. As you shed fat, yes, some of it will come from your breasts. Fortunately, some of it will also come from the rest of your torso, so as your overall breast-volume reduces, their size relative to the rest of you can stay roughly the same. Everybody stores and sheds fat differently, though, so there's really no way to know for sure what will happen for you, specifically. If you were ever at your goal weight after reaching adulthood, you can probably expect to return to that size. Get more info here.
+
+Guys - This really depends on how much weight you have to lose and whether you have Gynecomastia. The larger you currently are, the more likely you are to have loose skin even after the fat inside it is gone. Many men have found that by building their chest-muscles they can fill out the skin, others wear compression shirts until the skin naturally reduces. The final resource is, of course, surgery, but a very small percentage of men find it necessary if given enough time for their body to adapt.
+
+Eating Disorders
+An eating disorder is an illness that causes serious disturbances to your everyday diet, such as eating extremely small amounts of food or severely overeating. Features of disorders can include serious disturbances in eating behavior and weight regulation.
+
+/r/loseit tends to promote changing eating behaviors and improving a person's relationship with food for moderate, sustainable weight loss. It is important to recognize that there is a thin line between making these changes healthily and developing disordered thinking patterns around eating and exercise. If you are worried that your behavior has become disordered, then using screening tools and resources such as those found on http://www.nationaleatingdisorders.org/ can be helpful for seeing if you are at risk of developing an eating disorder and recognizing if you need to get help.
+
+If you think you have an eating disorder or may be developing one, /r/EatingDisorders contains helpful information in both the sidebar and its posts, including hotline and support network information.
+
+Exercise
+While diet is the most important aspect of losing weight, burning extra calories through exercise is excellent for your health and fun too! If you're completely sedentary, you might be surprised how exhausting any exercise whatsoever is; checking with a doctor before engaging in any physical activity is always recommended.
+
+There are two largely distinct types of exercise - cardio training and strength training, though both exist somewhere on a continuum of the intensity of muscular contractions. Cardio, or cardiovascular exercise, is exercise which requires relatively low intensity contractions but many of them often over an extended period of time. Strength training involves relatively few contractions but each of these is very high intensity. Cardio (something of a misnomer because all exercise is great for your heart) includes exercise such as running and cycling, while strength-training involves weights or body weight resistance. Many exercises lie somewhere in the middle, such as rock-climbing or complexes (more on these later).
+
+Pre-Existing Regimens
+There are a wealth of free and paid-for programs on the internet that can help you get in shape. We're going to focus only on those whose primary aim is fat loss. As with diet options, just because it's not listed here does not mean it's not going to work, only that it's not a popular choice among those of us on /r/loseit.
+
+For Those Without Access To A Gym
+Not having access to a gym is no impediment to doing great exercise and certainly not an excuse to avoid it. Walking and running are two obvious choices, but there are many options available.
+
+Walking -Pretty straightforward, get out the door and go for a walk.
+
+Running - Probably the most popular choice among people on r/loseit is Couch To 5k (C25k), a program that gets you running 5km (3.1 miles) in 9 weeks. For details take a look at the website and the related subreddit. Once you've hit the 5k mark, join the folks on r/running and take a look at Hal Higdon's guides for taking on half-marathons and marathons. If you're in the U.K., parkrun offers free timed 5ks in parks all over Britain. There are related schemes in Australia, Denmark, Poland and South Africa. If you want to start tracking your runs, RunKeeper allows you to do exactly that, and has free Android and iPhone applications too.
+
+Cycling - Cycling is excellent exercise and a great opportunity to see the great outdoors. There's a sizable community over at r/bicycling, which also has an awesome FAQ to get you started.
+
+HIIT - High Intensity Interval Training, or HIIT, involves short bursts of various activities over an extended period of time. Often this can mean running, but the idea is widely applicable. Here's a brief overview to get you started.
+
+Simplefit - Simplefit offers a free circuit training program based on bodyweight exercises.
+
+Convict Conditioning - Convict Conditioning is a popular book which focuses on bodyweight exercises to get your heart racing.
+
+P90X - Popular with a number of people here on /r/loseit, P90X is a paid-for program of exercises for you to do at home. It does require a limited amount of equipment, notably a pull-up bar.
+
+Sport - Perhaps an obvious choice, but playing a sport is great exercise and great for meeting new people too.
+
+For Those With Access To A Gym
+Picking up heavy things and putting them down again takes a considerable amount of effort on your body's part. Effort cannot be made without energy, so lifting heavy stuff is an excellent way to contribute to weight loss.
+
+Starting Strength - Starting Strength is a book by Mark Rippetoe which introduces people to weight lifting using five core lifts to get them exercising. The program advocates training three days a week where each session can be done in an hour. Check out the wiki.
+
+CrossFit - CrossFit is a program which encourages a rounded view of fitness, encompassing cardio, weights, flexibility and balance. It is very popular, and has its own subreddit, though it's not for everyone. See this review by notochord on /r/fitness, and other comments in this thread.
+
+Cardio - Gyms are packed full of various cardio machines that allow you to burn through the calories. If you're very overweight, it's probably best avoiding the treadmills in favor of the elliptical machines as they have little impact on your knees. Be wary of the claims made by calorie counters on cardio machines.
+
+Personal Trainers - Most gyms will offer a personal trainer, and if you're completely new it's probably a good idea to book a few sessions to get you started. They can be eye-wateringly expensive to use on a continuous basis, however. If you don't know how to use a particular machine, just ask a member of staff - they'd rather show you than get sued.
+
+Complexes - Complexes such as these are a halfway house between weights and cardio, and absolutely horrible in a good way. They require you to move low weights a lot in a short period of time and will get your heart rate up in no time.
+
+Exercise Subreddits
+/r/fitness is the king of the exercise subreddits and has its own extensive FAQ. While it covers all aspects of fitness, its main focus is on weightlifting.
+
+Running	Running and C25K
+Cycling	Bicycling and Cycling
+Climbing	Climbing
+Swimming	Swimming
+General Fitness	Fitness, Weightroom, AdvancedFitness and Bodybuilding, XXFitness (Women Specific Fitness)
+Nerves in the Gym
+A frequent concern of those who want to start exercising is that they are worried what others will think of them when they see them out running, in the gym, or on the pitch. This is completely natural, but honestly no-one gives a shit. The majority of people will be nothing but supportive, even if the majority are only thinking it to themselves, and you have no idea what those people looked like in years past.
+
+With 7 billion people on the planet, it's not inconceivable that you'll run into the odd dick. If (and it's a big if, most of us on r/loseit never have) you do have a problem with someone, you can either ignore them, confront them, or see if there's an authority around (gym staff, etc.) to help you out. Don't let them dissuade you from doing what you are doing. Feel free to ask the folks on r/loseit too, because we're quite a supportive bunch.
+
+Seeking Out Opportunities for Exercise
+Anything you do that involves moving around is exercise. Walking instead of driving or getting the bus is a good start, and podcasts or audiobooks can help make things more interesting if you're walking somewhere dull. Taking the stairs instead of hopping in the elevator is another small change which will, in time, add up.
+
+You might find it surprising what opportunities there are for exercise once you start thinking about the layout of your day. Try to find where you can introduce exercise into whatever it is you're doing.
+
+Tracking Progress
+TRACK YOUR PROGRESS. Tracking your progress is very, very, important. It allows you to see how far you've come and whether or not what you're doing is working.
+
+Websites
+There are lots of websites for tracking both calories and exercise online, and many work in conjunction with applications on various smartphone platforms.
+
+Site	iPhone	Android	BlackBerry	Windows	Description
+myfitnesspal	Yes	Yes	Yes	Yes	Probably the most popular website here on /r/loseit, myfitnesspal has over 1.2 million food items in its database and adapts to the diet you want to work with.
+Lose It!	Yes	Yes	No	No	Another popular site, Lose It! is very full-featured and its mobile applications are the best around. Does not support Metric.
+DailyBurn	Yes	Yes	No	No	DailyBurn has a few nifty features including a food barcode scanner to make life easy for you. Be wary of the MealSnap service though, which purports to calculate the calories in your meal from a photograph.
+FatSecret	Yes	Yes	No	Yes	FatSecret is a completely free service, unlike most of those which include some premium content such as consultations and custom plans.
+SparkPeople	Yes	Yes	Yes	No	SparkPeople is a very popular website, but it's not the prettiest and isn't much used by people on r/loseit.
+LiveStrong	Yes	Yes	Yes	Yes	Quite a few people on /r/loseit use LiveStrong, which covers all bases by having applications for the four major smartphone platforms and allows you to grade sex by intensity when counting calories.
+Fitocracy	Yes	Yes	No	No	Fitocracy tracks exercise only, and offers a MMORPG style of "play" where you level up by completing fitness activities and special quests. Hugely popular among the /r/fitness crowd.
+Lifesum	Yes	Yes	No	No	Lifesum is very popular with our users in the Europe because it has a database that skews towards Euro foods and brands. It's also very vegan friendly.
+Helpful Links
+BMI Visualizer
+
+My Body Gallery
+
+Let Us Know How You're Doing!
+Here on r/loseit we want to see how you're doing! It's great motivation for anyone, whether they be starting out to lose 200lbs/100kg or looking to maintain a healthy weight having lost 20lbs/10kg. Post your pictures, and let us know what it is you're doing so that people can give or take advice as necessary.
+
+A word of warning however, don't announce to the world that you're just getting started. This leads to what is called the Gollwitzer effect, where people reward themselves for achieving something that they haven't yet done because they've told people what they intend to do. Unfortunately this psychological reward lowers the chance of achieving their goals in the first place. Get started, give it a few weeks, and then let us know.
+
+Motivation
+Motivation to change must ultimately come from you. No-one can force you to change the direction you're heading in, and no-one's going to come along and kick your arse into shape. It is up to you.
+
+With that caveat, there are a number of resources to inspire you to get motivated and get started on your weight loss journey. Just know that the first two weeks are the hardest. The longer you continue and the farther you travel from the old you, the more you will see the inevitability of success. When that happens, you've won.
+
+The top posts on r/loseit is a huge compendium of transformations that people have been through, both completed and ongoing. There's also The Hall Of Fame, to which you can submit your own photographs here.
+
+Besides that, there is the GetMotivated subreddit to browse. Also take a look at this thread on bodybuilding.com which is now over 200 pages long.
+
+If you're still feeling uninspired and have compiled a list of excuses, see how many Matt Scott ticks off.
+
+| Compendium | Posting Guidelines | FAQ |
