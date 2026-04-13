@@ -1,18 +1,33 @@
 # Weight Loss Nutritionist GPT
 
-An AI-powered weight loss coach that goes beyond calorie counting. Built as a custom GPT with evidence-based nutrition science, behavioral psychology (HALT framework), and a coaching tone that keeps people going instead of making them quit.
+An AI-powered weight loss **companion** — part coach, part food-logging sidekick, part 24/7 accountability friend. Built on an evidence-based nutrition foundation and engineered around what actually drives sustained weight loss: reducing the daily cognitive cost of applying what you already know.
 
 **[Try it free on ChatGPT](https://chatgpt.com/g/g-69d902da41448191b094b5dc57ec331b-weight-loss-nutritionist)**
 
-## What Makes It Different
+## Why This Design
 
-Most diet GPTs are glorified calorie calculators. This one actually coaches:
+Most diet GPTs are glorified calorie calculators. This one is different because it is engineered against the real failure mode of weight loss: **execution, not information**.
 
-- **Empathy first, numbers second** — validates feelings before giving advice. When you overeat, it reframes to the weekly view instead of guilt-tripping you.
-- **HALT framework** — catches emotional eating by checking if you're actually Hungry, or just Angry, Lonely, or Tired (based on Kaiser Permanente's behavioral model).
-- **ADD / REDUCE / REPLACE** — never tells you to stop eating something. Instead suggests what to add, reduce, or swap. Restriction doesn't work long-term.
-- **Hard info check** — won't calculate TDEE until it has your biological sex, age, height, weight, and activity level. No guessing.
-- **Science-backed** — Mifflin-St Jeor BMR, safe calorie floors (1200F/1500M/1600 teens), protein targets (1.2-1.6g/kg/day), and real plateau diagnostics.
+Analysis of 30+ Reddit posts from r/loseit, r/ChatGPT, r/CICO and others — summarized in [How Real People Use ChatGPT to Lose Weight](https://nanorhino.com/blog/how-real-people-use-chatgpt-to-lose-weight-reddit-research) — shows people succeed when AI does three specific things:
+
+1. **Reduces tracking friction** — natural-language food logging instead of database lookups
+2. **Offloads daily decisions** — meal plans, restaurant picks, "what can I make with this" questions
+3. **Non-judgmental accountability** — 24/7 partner for the honest messages people can't send a human trainer
+
+This GPT is built around all three, with explicit guardrails for the known failure modes of general-purpose chatbots (bad calorie estimates, no memory, math errors, passive cheerleading).
+
+## Core Capabilities
+
+- **Food Logging Mode** — describe a meal or paste a photo, get a structured log with confidence tags and liquid-calorie / hidden-oil flags. No database lookup, no barcode scanning.
+- **State Snapshot Ritual** — a copy-pastable profile block the GPT generates on request so you can start fresh chats without losing your context (works around ChatGPT's memory limit).
+- **Calorie Honesty Rule** — every estimate ships with a confidence range (±15-30%) and guidance on when to reach for a kitchen scale. No false precision.
+- **Arithmetic Transparency** — BMR / TDEE / deficit calculations show their work inline so you can spot-check.
+- **Safety Screening** — on first interaction, gently checks for medical conditions, underweight targets, psychiatric medications, teen/pregnancy status, and routes to the right playbook.
+- **When to Challenge** — deliberately does not default to validation. Names repeat patterns, refuses unsafe deficits, calls out non-scale wins the user is missing.
+- **HALT framework** — Kaiser Permanente's emotional-eating self-check (Hungry / Angry / Lonely / Tired) for pre-eating moments.
+- **ADD / REDUCE / REPLACE** — never prescribes restriction. Suggests what to add, reduce, or swap.
+- **Hard info check** — won't calculate TDEE until it has your biological sex, age, height, weight, and activity level.
+- **Science-backed** — Mifflin-St Jeor BMR, safe calorie floors (1200F / 1500M / 1600 teens), protein targets (1.2-1.6g/kg/day), real plateau diagnostics.
 
 ## How It Works
 
@@ -22,12 +37,19 @@ The GPT uses a system prompt (`gpt-instructions.md`) that defines its persona an
 
 | Situation | What It Does |
 |-----------|-------------|
+| "Here's what I ate today" | Structured food log with confidence tags, liquid-calorie flags, running daily totals |
+| "Make me a week of meals" | 7-day plan with shared ingredients, batch-cook instructions, consolidated grocery list |
+| "I'm going to [restaurant]" | Top 3 menu picks by goal-fit with specific ordering scripts ("dressing on the side, swap fries for veggies") |
+| "What can I make with this?" | 2-3 options from pantry / fridge photo at different effort levels |
+| Social eating pressure | Pre-event strategy + practiced scripts to decline pushy offers without drama |
 | Binge / overeat | Empathy, normalize, weekly reframe, find the trigger |
 | Plateau | Diagnostic checklist (tracking? TDEE? exercise? sodium? cycle?) |
 | Emotional eating | HALT self-check, then alternatives before eating |
 | Scale panic | "1 lb fat = 3,500 extra cal. Did that happen? If not, it's water." |
-| Unrealistic goal | Honest math + explain why rapid loss backfires |
+| Unrealistic goal | Honest math + explain why rapid loss backfires. Refuses unsafe deficits. |
 | "What do I eat?" | 30g protein + 10g fiber framework with concrete examples |
+| Repeat patterns | Names the pattern on the 3rd occurrence — challenges without shaming |
+| End of a chat window | Generates a State Snapshot you paste into the next conversation |
 
 ## Repo Structure
 
@@ -73,6 +95,7 @@ The GPT uses a system prompt (`gpt-instructions.md`) that defines its persona an
 
 ## References
 
+- [How Real People Use ChatGPT to Lose Weight — NanoRhino](https://nanorhino.com/blog/how-real-people-use-chatgpt-to-lose-weight-reddit-research) — 30+ Reddit case study that shaped this GPT's behavioral design
 - [r/loseit FAQ](https://www.reddit.com/r/loseit/wiki/faq/) — comprehensive weight loss community knowledge
 - [Kaiser Permanente HALT Framework](https://healthy.kaiserpermanente.org/) — emotional eating self-check
 - [Dietary Guidelines for Americans 2025-2030](https://www.dietaryguidelines.gov/) — federal nutrition recommendations
