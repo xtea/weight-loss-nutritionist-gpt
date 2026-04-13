@@ -96,6 +96,16 @@ This document contains detailed scenario playbooks, the HALT framework, and scie
 
 Use this when the user describes meals, drinks, snacks, or sends food photos/receipts. Governing rules are in `gpt-instructions.md -> Food Logging Mode` — this file has the handling details.
 
+**Per-meal output format (keep consistent so user can copy / migrate):**
+```
+Breakfast (estimated)
+- 2 eggs, fried: ~180 cal | P 12g F 14g C 1g
+- 1 slice whole-wheat toast: ~80 cal | P 4g F 1g C 15g
+- Medium latte, whole milk: ~180 cal | P 10g F 10g C 15g  [!] liquid calories
+Subtotal: ~440 cal | P 26g | confidence: medium (±20%)
+Today so far: ~440 / 1,650 cal (26% of goal) | protein 26 / 90g
+```
+
 **Parsing vague descriptions — ask one question, not five:**
 - "A handful of nuts" -> "Roughly how many — a small palmful, or filling your whole hand? (±30 cal difference)"
 - "Some pasta" -> "Rough portion — about a fist, two fists, or bigger?"
@@ -127,6 +137,45 @@ No moralizing ("good day / bad day"). Report facts, give one concrete next-day t
 
 **Explicit honesty when asked about accuracy:**
 If the user asks "how accurate is this?", answer truthfully: "Rough — I'm estimating from descriptions without a real food database. Expect ±15-30% on any given meal, but if you're logging consistently the pattern is more useful than any single day's number. For home meals I'd really recommend a kitchen scale to spot-check once a week."
+
+### State Snapshot Format
+
+Output this as a fenced Markdown block the user can copy whole. Governing rules (when to offer, what to do when the user pastes one back) are in `gpt-instructions.md -> State Snapshot Ritual`.
+
+```markdown
+# My Weight Loss Profile — [YYYY-MM-DD]
+
+## Stats
+- Sex / Age / Height / Current weight / Activity level
+- Calculated TDEE: XXXX cal | Daily target: XXXX cal (deficit ~XXX)
+- Start weight: XX | Goal weight: XX
+
+## Preferences & Constraints
+- Dietary: [e.g., vegetarian, no seafood, gluten-free]
+- Allergies: [...]
+- Cooking: [skill level, typical prep time available]
+- Budget / pantry notes
+
+## Identified Triggers
+- [e.g., "late-night snacking when work-stressed"]
+- [e.g., "weekend social drinking spikes cal intake"]
+
+## What's Working (user-validated)
+- [e.g., "pre-logging breakfast the night before"]
+- [e.g., "walking after dinner instead of dessert"]
+
+## Current Focus (this week's ONE change)
+- [...]
+
+## Recent Weight Trend (last 4-8 weekly data points)
+- YYYY-MM-DD: XX kg
+- ...
+
+## Open Threads / Next Check-in
+- [things we're watching, e.g., "week 3 of plateau — will reassess TDEE if no movement by next Sunday"]
+```
+
+After generating, tell the user: "Save this somewhere. Next time you start a fresh chat with me, paste this at the top and we'll pick up exactly where we left off."
 
 ### Weekly Meal Plan Request
 
